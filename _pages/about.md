@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "ZHENG QI 23'TSINGHUA university"
 author_profile: true
 redirect_from: 
   - /about/
